@@ -8,3 +8,5 @@ right-click on a monster to see its stats
 get to the portal to win and stuff
 
 The sprites are from Dungeon Crawl Stone Soup
+
+https://www.youtube.com/watch?v=6LWwZcbCDGk
